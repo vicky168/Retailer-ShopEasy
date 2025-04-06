@@ -1,0 +1,126 @@
+[
+  {
+    "id": "1743906464206",
+    "name": "Coffee Maker",
+    "description": "Programmable coffee maker with thermal carafe",
+    "price": 89.99,
+    "images": [
+      "/products/1743906464195-coffe maker.jpg"
+    ],
+    "mainImage": "/products/1743906464195-coffe maker.jpg",
+    "category": "Other",
+    "createdAt": "2025-04-06T02:27:44.206Z"
+  },
+  {
+    "id": "1743906426757",
+    "name": "Stainless Steel water Bottle",
+    "description": "Double-walled insulated water bottle.",
+    "price": 24.99,
+    "images": [
+      "/products/1743906426746-bottle.jpg"
+    ],
+    "mainImage": "/products/1743906426746-bottle.jpg",
+    "category": "Other",
+    "createdAt": "2025-04-06T02:27:06.757Z"
+  },
+  {
+    "id": "1743906329614",
+    "name": "Portable Charger",
+    "description": "Fast charging for all your devices on the go.",
+    "price": 49.99,
+    "images": [
+      "/products/1743906329601-charger.jpg"
+    ],
+    "mainImage": "/products/1743906329601-charger.jpg",
+    "category": "Electronics",
+    "createdAt": "2025-04-06T02:25:29.614Z"
+  },
+  {
+    "id": "1743906287820",
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with cushioning",
+    "price": 119.99,
+    "images": [
+      "/products/1743906287768-shoes.jpg"
+    ],
+    "mainImage": "/products/1743906287768-shoes.jpg",
+    "category": "Fashion",
+    "createdAt": "2025-04-06T02:24:47.820Z"
+  },
+  {
+    "id": "1743906155149",
+    "name": "Throw Pillows",
+    "description": "Decorative throw pillows for sofa",
+    "price": 39.99,
+    "images": [
+      "/products/1743906155139-pillows.jpg"
+    ],
+    "mainImage": "/products/1743906155139-pillows.jpg",
+    "category": "Other",
+    "createdAt": "2025-04-06T02:22:35.149Z"
+  },
+  {
+    "id": "1743906113978",
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with rich sound",
+    "price": 89.99,
+    "images": [
+      "/products/1743906113936-jbl speaker.jpg"
+    ],
+    "mainImage": "/products/1743906113936-jbl speaker.jpg",
+    "category": "Electronics",
+    "createdAt": "2025-04-06T02:21:53.978Z"
+  },
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life.",
+    "price": 249.99,
+    "images": [
+      "/products/headphones-1.jpg",
+      "/products/1743906623462-wireless .jpg"
+    ],
+    "mainImage": "/products/1743906623462-wireless .jpg",
+    "category": "Audio",
+    "createdAt": "2023-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch",
+    "description": "Fitness tracker with heart rate monitor, GPS, and 7-day battery life.",
+    "price": 199.99,
+    "images": [
+      "/products/smartwatch-1.jpg",
+      "/products/smartwatch-2.jpg"
+    ],
+    "mainImage": "/products/smartwatch-1.jpg",
+    "category": "Wearables",
+    "createdAt": "2023-02-10T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Bluetooth Speaker",
+    "description": "Waterproof portable speaker with 360° sound and 24-hour playtime.",
+    "price": 129.99,
+    "images": [
+      "/products/speaker-1.jpg",
+      "/products/speaker-2.jpg"
+    ],
+    "mainImage": "/products/speaker-1.jpg",
+    "category": "Audio",
+    "createdAt": "2023-03-05T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Laptop Stand",
+    "description": "Adjustable aluminum laptop stand compatible with all laptops.",
+    "price": 49.99,
+    "images": [
+      "/products/laptop-stand-1.jpg",
+      "/products/laptop-stand-2.jpg"
+    ],
+    "mainImage": "/products/laptop-stand-1.jpg",
+    "category": "Electronics",
+    "createdAt": "2023-04-20T00:00:00.000Z"
+  }
+]
